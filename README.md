@@ -11,7 +11,17 @@ The client would like to know more information about temperature trends before o
 
 - The minimum temp in June is 64 degress Fahrenheit vs the minimum temp in December is 56 degress Fahrenheit. 
 
-- The maximum temp in June is 85 degress Fahrenheit vs the maximum temp in December is 83 degress Fahrenheit
+- The maximum temp in June is 85 degress Fahrenheit vs the maximum temp in December is 83 degress Fahrenheit.
+
+June 
+
+<img width="154" alt="SD_June" src="https://user-images.githubusercontent.com/111452227/209065207-c6c97bc3-5afb-4301-a8c2-316955533f98.png"> 
+
+December
+
+<img width="146" alt="SD_Dec" src="https://user-images.githubusercontent.com/111452227/209065236-9b04d53c-ed5a-4459-ac47-0c5bac14be98.png">
+
+
 
 ## Summary
 
